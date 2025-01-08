@@ -41,7 +41,6 @@ services:
 ### 配置说明
 1. 环境变量：
    - `LICENSE_KEY`: 授权密钥（必需）
-   - `WORKDIR`: 工作目录，默认为 `/data`
 
 2. 目录说明：
    - `/data/conf`: 配置文件目录
@@ -51,8 +50,8 @@ services:
 3. 端口说明：
    - `5300`: Web界面和API端口
 
-4. CloudDrive2配置
-    - 需要开启webhook功能，下载webhook.toml文件，并配置其中的base_url地址为本程序地址，如`http://your-ip:5300`
+4. 实时监控
+    - 需要开启CloudDrive2的webhook功能，下载webhook.toml文件，并配置其中的base_url地址为本程序地址，如`http://your-ip:5300`
     - 保存到cd2配置中的config路径下，重启cd2容器即可
 
 ### 使用说明
