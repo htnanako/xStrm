@@ -65,3 +65,9 @@ services:
 - 本项目需要授权码才能使用
 - 授权码支持7天试用期
 - 获取license_key请联系作者，或发送邮件到service@nanako.cyou提供邮箱即可
+
+### 永久授权购买
+扫描以下微信或支付宝收款码，支付¥30元(金额已设定好)，并备注邮箱，当天内处理修改用户授权信息，随后可在设置页面内查看授权信息
+<img src="https://github.com/user-attachments/assets/e3d6dd1c-12da-4dff-813e-582ec3c67389" width="300px"  />
+<img src="https://github.com/user-attachments/assets/c0c6dcae-0c9f-435a-b2dd-228b791665bb" width="300px"  />
+
