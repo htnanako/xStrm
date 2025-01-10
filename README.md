@@ -1,6 +1,8 @@
 # xStrm
 
 > 本项目用于将115网盘资源创建strm文件、下载元数据到本地，快速构建emby媒体库
+>
+官方Telegram群组https://t.me/xstrm_chat
 
 ### 功能介绍：
 - 支持将115网盘中的视频文件生成strm文件到本地
