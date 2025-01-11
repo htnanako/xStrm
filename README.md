@@ -64,10 +64,21 @@ services:
 4. 可选择开启定时任务或实时监控
 5. 支持手动执行任务和WEB查看运行日志
 
+### 界面预览
+
+![iShot_2025-01-11_13 37 23](https://github.com/user-attachments/assets/155ab4d9-4492-42af-ac00-bf262beb8db8)
+![iShot_2025-01-11_13 37 31](https://github.com/user-attachments/assets/db0d44ac-ae0e-45ca-b030-05e1a4995c04)
+![iShot_2025-01-11_13 37 57](https://github.com/user-attachments/assets/bbf474da-2907-46b1-818d-cbdc8c88fe3f)
+![iShot_2025-01-11_13 38 53](https://github.com/user-attachments/assets/a68ac41d-175b-4466-b172-be3430829fb0)
+![iShot_2025-01-11_13 39 03](https://github.com/user-attachments/assets/de1db0b9-4fa3-4612-93c5-26377d487cb6)
+![iShot_2025-01-11_13 39 15](https://github.com/user-attachments/assets/49d70850-170e-41a5-9ec8-addc3ab53bbb)
+
+
+
 ### 许可说明
 - 本项目需要授权码才能使用
 - 授权码支持7天试用期
-- 获取license_key请联系作者，或发送邮件到service@nanako.cyou提供邮箱即可
+- 获取license_key请联系作者，发送邮件到service@nanako.cyou提供邮箱。
 
 ### 永久授权购买
 扫描以下微信或支付宝收款码，支付¥30元(金额已设定好)，并备注邮箱，当天内处理修改用户授权信息，随后可在设置页面内查看授权信息
