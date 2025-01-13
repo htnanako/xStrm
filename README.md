@@ -20,7 +20,7 @@ docker run -d \
   --name xstrm \
   -p 5300:5300 \
   -v /path/to/data:/data \
-  -v /path/to/media:/media \
+  -v /path/to/strm:/strm \
   -e LICENSE_KEY=your_license_key \
   htnanako/xstrm:latest
 ```
@@ -35,7 +35,7 @@ services:
       - "5300:5300"
     volumes:
       - /path/to/data:/data  # 配置文件目录
-      - /path/to/media:/media    # 媒体文件目录
+      - /path/to/strm:/strm    # 本地strm文件目录
     environment:
       - LICENSE_KEY=your_license_key  # 授权密钥
     restart: unless-stopped
@@ -48,7 +48,7 @@ services:
 2. 目录说明：
    - `/data/conf`: 配置文件目录
    - `/data/logs`: 日志文件目录
-   - `/media`: 媒体文件目录（可自定义）
+   - `/strm`: 本地strm文件目录（可自定义）
 
 3. 端口说明：
    - `5300`: Web界面和API端口
@@ -78,7 +78,7 @@ services:
 ### 许可说明
 - 本项目需要授权码才能使用
 - 授权码支持7天试用期
-- 获取license_key请联系作者，发送邮件到service@nanako.cyou提供邮箱。
+- 获取license_key请联系作者，发送邮件到service@nanako.cyou提供邮箱，或者试用TG群组的机器人自助申请。
 
 ### 永久授权购买
 扫描以下微信或支付宝收款码，支付¥30元(金额已设定好)，并备注邮箱，当天内处理修改用户授权信息，随后可在设置页面内查看授权信息
