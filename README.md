@@ -4,6 +4,8 @@
 >
 官方Telegram群组https://t.me/xstrm_chat
 
+部署及配置可查看博客文章[xStrm不完全教程](https://blog.nanako.vip/?p=226)
+
 ### 功能介绍：
 - 支持将115网盘中的视频文件生成strm文件到本地
 - 支持同步下载视频相关的元数据文件（如字幕、封面等）
