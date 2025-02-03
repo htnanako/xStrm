@@ -1,5 +1,10 @@
 # xStrm
 
+![GitHub repo size](https://img.shields.io/github/repo-size/htnanako/xStrm)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/htnanako/xstrm/latest)
+![Docker Pulls](https://img.shields.io/docker/pulls/htnanako/xstrm)
+[![GitHub Repo stars](https://img.shields.io/github/stars/htnanako/xStrm?style=social)](https://github.com/htnanako/xStrm/stargazers)
+
 > 本项目用于将115网盘资源创建strm文件、下载元数据到本地，快速构建emby媒体库
 >
 官方Telegram群组https://t.me/xstrm_chat
@@ -46,6 +51,7 @@ services:
 ### 配置说明
 1. 环境变量：
    - `LICENSE_KEY`: 授权密钥（必需）
+   - `SERVER_URL`: 若部署在国外服务器，添加此参数并设定值为`https://x.nanako.cyou`指定验证服务器地址。若部署在国内则不需要
 
 2. 目录说明：
    - `/data/conf`: 配置文件目录
