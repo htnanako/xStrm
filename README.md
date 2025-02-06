@@ -92,9 +92,9 @@ services:
 - 不接受任何理由申请退款，不接受任何理由申请退款，不接受任何理由申请退款。
 
 ### 永久授权购买
-扫描以下微信或支付宝收款码，支付¥30元(金额已设定好)，并备注邮箱，付款后当天内处理修改用户授权信息。
+扫描以下微信或支付宝收款码，支付¥68元(金额已设定好)，并备注邮箱，付款后当天内处理修改用户授权信息。
 由试用用户转为永久用户的，不会有新的授权码，在原先试用码的基础上直接修改到期时间，可在软件web界面中查看。
 
-<img src="https://github.com/user-attachments/assets/e3d6dd1c-12da-4dff-813e-582ec3c67389" width="300px"  />
-<img src="https://github.com/user-attachments/assets/c0c6dcae-0c9f-435a-b2dd-228b791665bb" width="300px"  />
+<img src="https://github.com/user-attachments/assets/6180ec20-9e14-41c6-ab78-f1cdf3d16d99" width="300px"  />
+<img src="https://github.com/user-attachments/assets/56a4c79b-6bfd-458f-afac-b37e2cb9e51a" width="300px"  />
 
