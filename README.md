@@ -74,7 +74,7 @@ services:
 4. 可选择开启定时任务或实时监控
 5. 支持手动执行任务和WEB查看运行日志
 
-### 界面预览
+### 界面预览(非最新版本，以实际为准)
 
 ![iShot_2025-01-11_13 37 23](https://github.com/user-attachments/assets/155ab4d9-4492-42af-ac00-bf262beb8db8)
 ![iShot_2025-01-11_13 37 31](https://github.com/user-attachments/assets/db0d44ac-ae0e-45ca-b030-05e1a4995c04)
